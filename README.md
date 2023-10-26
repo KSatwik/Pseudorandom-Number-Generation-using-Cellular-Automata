@@ -2,6 +2,9 @@
 
 It's a software tool designed to generate pseudorandom numbers using cellular automata. Cellular automata are computational models that can exhibit complex and unpredictable behaviors based on a set of rules and an initial state. In this project, cellular automata are harnessed to create sequences of numbers that appear random, making them suitable for various applications, including cryptography and simulations.
 
+<img width="660" alt="image" src="https://github.com/KSatwik/Pseudorandom-Number-Generation-using-Cellular-Automata/assets/76058437/38c4a3ec-6521-41ef-93c5-cbb5d15c1a92">
+
+
 ## Why did I do this??
 
 Pseudorandom numbers are essential in a wide range of computer science applications, from cryptography to scientific simulations. This project provides a novel and visually appealing way to generate pseudorandom numbers by leveraging the inherent chaotic nature of cellular automata. It serves as a unique alternative to traditional pseudorandom number generators.
